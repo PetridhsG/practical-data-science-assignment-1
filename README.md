@@ -22,7 +22,7 @@ The pipeline, built with [SynDisco](https://pypi.org/project/syndisco/):
 
 ## Repository contents
 
-- `test.ipynb` — the full analysis with all outputs; seed and repository link in the first cell, explanations in markdown cells.
+- `annotations.ipynb` — the full analysis with all outputs; seed and repository link in the first cell, explanations in markdown cells.
 - `llm_interactions.md` — the prompts and answers exchanged with LLMs while doing the assignment.
 
 ## Running
